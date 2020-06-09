@@ -13,3 +13,7 @@ If you find this code useful, please consider citing:
   year={2019}
 }
 ```
+
+## HalluciNet Concept:
+
+<p align="center"> <img src="hallucinet.png?raw=true" alt="mtl_net" width="400"/> </p>
